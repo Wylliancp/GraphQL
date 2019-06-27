@@ -1,0 +1,14 @@
+C:\RepositorioC#\dotnetCore\Api.Facebook\Api.Facebook\bin\Debug\netcoreapp2.2\Api.Facebook.deps.json
+C:\RepositorioC#\dotnetCore\Api.Facebook\Api.Facebook\bin\Debug\netcoreapp2.2\Api.Facebook.runtimeconfig.json
+C:\RepositorioC#\dotnetCore\Api.Facebook\Api.Facebook\bin\Debug\netcoreapp2.2\Api.Facebook.runtimeconfig.dev.json
+C:\RepositorioC#\dotnetCore\Api.Facebook\Api.Facebook\bin\Debug\netcoreapp2.2\Api.Facebook.dll
+C:\RepositorioC#\dotnetCore\Api.Facebook\Api.Facebook\bin\Debug\netcoreapp2.2\Api.Facebook.pdb
+C:\RepositorioC#\dotnetCore\Api.Facebook\Api.Facebook\obj\Debug\netcoreapp2.2\Api.Facebook.csproj.CoreCompileInputs.cache
+C:\RepositorioC#\dotnetCore\Api.Facebook\Api.Facebook\obj\Debug\netcoreapp2.2\Api.Facebook.RazorAssemblyInfo.cache
+C:\RepositorioC#\dotnetCore\Api.Facebook\Api.Facebook\obj\Debug\netcoreapp2.2\Api.Facebook.RazorAssemblyInfo.cs
+C:\RepositorioC#\dotnetCore\Api.Facebook\Api.Facebook\obj\Debug\netcoreapp2.2\Api.Facebook.AssemblyInfoInputs.cache
+C:\RepositorioC#\dotnetCore\Api.Facebook\Api.Facebook\obj\Debug\netcoreapp2.2\Api.Facebook.AssemblyInfo.cs
+C:\RepositorioC#\dotnetCore\Api.Facebook\Api.Facebook\obj\Debug\netcoreapp2.2\Api.Facebook.RazorTargetAssemblyInfo.cache
+C:\RepositorioC#\dotnetCore\Api.Facebook\Api.Facebook\obj\Debug\netcoreapp2.2\Api.Facebook.dll
+C:\RepositorioC#\dotnetCore\Api.Facebook\Api.Facebook\obj\Debug\netcoreapp2.2\Api.Facebook.pdb
+C:\RepositorioC#\dotnetCore\Api.Facebook\Api.Facebook\obj\Debug\netcoreapp2.2\Api.Facebook.csprojAssemblyReference.cache
